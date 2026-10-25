@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/NishantJLU/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/NishantJLU/Leetcode-Problems/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/NishantJLU/Leetcode-Problems/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/NishantJLU/Leetcode-Problems/tree/master/0055-jump-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/NishantJLU/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/NishantJLU/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/NishantJLU/Leetcode-Problems/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/NishantJLU/Leetcode-Problems/tree/master/0055-jump-game) |
 ## Trie
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/NishantJLU/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/NishantJLU/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/NishantJLU/Leetcode-Problems/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/NishantJLU/Leetcode-Problems/tree/master/0055-jump-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
